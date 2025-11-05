@@ -26,6 +26,7 @@ I'm a third year software engineering student at **McGill University** with a pa
 ---
 
 ### 📫 Let’s Connect
-- Email: jad.elhachem.pro@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/jad-elhachem/
+- Email: jad.elhachem.pro@gmail.com
 - Portfolio: [jad-elhachem.com]
 
