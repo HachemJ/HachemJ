@@ -20,7 +20,7 @@ I'm a third year software engineering student at **McGill University** with a pa
 
 ---
 
-### ⚡ Fun Fact
+### 🎮 Fun Fact about me
 - Outside of software projects, I'm grinding in competitive gaming, chasing my dream of reaching the pro league.  
 
 ---
